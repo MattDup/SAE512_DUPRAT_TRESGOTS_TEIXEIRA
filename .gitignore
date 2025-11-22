@@ -1,0 +1,12 @@
+.DS_Store
+.vscode/
+__pycache__/
+*.pyc
+site/
+
+# Arduino temp
+*.orig
+*.bak
+
+# Local secrets (if you use this)
+pack3-secure-mqtt/firmware/config_secrets.h
